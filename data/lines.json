@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "name": "Ligne 1",
+    "colorHex": "#FFCD00",
+    "textColorHex": "#000000",
+    "sortOrder": 10
+  },
+  {
+    "id": "2",
+    "name": "Ligne 2",
+    "colorHex": "#003CA6",
+    "textColorHex": "#FFFFFF",
+    "sortOrder": 20
+  },
+  {
+    "id": "3",
+    "name": "Ligne 3",
+    "colorHex": "#837902",
+    "textColorHex": "#FFFFFF",
+    "sortOrder": 30
+  },
+  {
+    "id": "3bis",
+    "name": "Ligne 3bis",
+    "colorHex": "#6EC4E8",
+    "textColorHex": "#000000",
+    "sortOrder": 35
+  },
+  {
+    "id": "4",
+    "name": "Ligne 4",
+    "colorHex": "#CF009E",
+    "textColorHex": "#FFFFFF",
+    "sortOrder": 40
+  },
+  {
+    "id": "5",
+    "name": "Ligne 5",
+    "colorHex": "#FF7E2E",
+    "textColorHex": "#000000",
+    "sortOrder": 50
+  },
+  {
+    "id": "6",
+    "name": "Ligne 6",
+    "colorHex": "#6ECA97",
+    "textColorHex": "#000000",
+    "sortOrder": 60
+  },
+  {
+    "id": "7",
+    "name": "Ligne 7",
+    "colorHex": "#FA9ABA",
+    "textColorHex": "#000000",
+    "sortOrder": 70
+  },
+  {
+    "id": "7bis",
+    "name": "Ligne 7bis",
+    "colorHex": "#6ECA97",
+    "textColorHex": "#000000",
+    "sortOrder": 75
+  },
+  {
+    "id": "8",
+    "name": "Ligne 8",
+    "colorHex": "#E19BDF",
+    "textColorHex": "#000000",
+    "sortOrder": 80
+  },
+  {
+    "id": "9",
+    "name": "Ligne 9",
+    "colorHex": "#B6BD00",
+    "textColorHex": "#000000",
+    "sortOrder": 90
+  },
+  {
+    "id": "10",
+    "name": "Ligne 10",
+    "colorHex": "#C9910D",
+    "textColorHex": "#FFFFFF",
+    "sortOrder": 100
+  },
+  {
+    "id": "11",
+    "name": "Ligne 11",
+    "colorHex": "#704B1C",
+    "textColorHex": "#FFFFFF",
+    "sortOrder": 110
+  },
+  {
+    "id": "12",
+    "name": "Ligne 12",
+    "colorHex": "#007852",
+    "textColorHex": "#FFFFFF",
+    "sortOrder": 120
+  },
+  {
+    "id": "13",
+    "name": "Ligne 13",
+    "colorHex": "#6EC4E8",
+    "textColorHex": "#000000",
+    "sortOrder": 130
+  },
+  {
+    "id": "14",
+    "name": "Ligne 14",
+    "colorHex": "#62259D",
+    "textColorHex": "#FFFFFF",
+    "sortOrder": 140
+  }
+]

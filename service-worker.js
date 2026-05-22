@@ -1,5 +1,5 @@
 // Mon Métro Paris — service worker (cache-first for app shell + data).
-const CACHE_VERSION = "v2";
+const CACHE_VERSION = "v3";
 const CACHE_NAME = `mon-metro-paris-${CACHE_VERSION}`;
 
 const APP_SHELL = [
