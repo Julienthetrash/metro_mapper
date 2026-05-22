@@ -1,4 +1,4 @@
-# Mon Métro Paris
+# Metro Mapper
 
 PWA (Progressive Web App) installable pour suivre les stations du métro parisien que vous avez visitées. **100 % local**, aucune donnée envoyée à un serveur.
 
